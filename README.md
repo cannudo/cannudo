@@ -1,6 +1,6 @@
 ## A pergunta que não quer calar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=quantas+Lisianes+podem+coexistir+no+multiverso%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&width=435&lines=quantas+lisianes+podem+coexistir;no+multiverso%3F)](https://git.io/typing-svg)
 
 <table>
   <tbody><tr>
